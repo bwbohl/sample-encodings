@@ -118,7 +118,7 @@
               </staffGrp>
             </scoreDef>
             <section>
-              <measure n="1" width="324">
+              <measure n="1">
                 <staff n="1">
                   <layer n="1">
                     <rest dur="4"/>
@@ -320,7 +320,7 @@
           </scoreDef>
           <section>
             <scoreDef meter.count="3" meter.unit="4" key.sig="3f" key.mode="major"/>
-            <measure n="1" xml:id="d1e136" width="324">
+            <measure n="1" xml:id="d1e136">
               <staff n="1">
                 <layer n="1">
                   <rest xml:id="d1e176" dur="4"/>
@@ -371,7 +371,7 @@
               <slur tstamp="2" curvedir="above" startid="#d1e338" endid="#d1e358" bezier="19 12 -16 14" staff="2" tstamp2="0m+3"/>
               <slur tstamp="2" curvedir="below" startid="#d1e439" endid="#d1e457" bezier="17 -14 -18 -12" staff="3" tstamp2="0m+3"/>
             </measure>
-            <measure n="2" xml:id="d1e475" width="261">
+            <measure n="2" xml:id="d1e475">
               <staff n="1">
                 <layer n="1">
                   <note xml:id="d1e477" pname="b" oct="4" dur="4" dots="1" stem.dir="down" accid.ges="f">
@@ -423,7 +423,7 @@
               <pedal tstamp="2" place="below" staff="3" dir="down" form="pedstar"/>
               <pedal tstamp="3" place="below" staff="3" dir="up" form="pedstar"/>
             </measure>
-            <measure n="3" xml:id="d1e732" width="245">
+            <measure n="3" xml:id="d1e732">
               <staff n="1">
                 <layer n="1">
                   <note xml:id="d1e734" pname="e" oct="5" dur="4" stem.dir="down" accid.ges="f">
@@ -485,7 +485,7 @@
               <pedal tstamp="2" place="below" staff="3" dir="down" form="pedstar"/>
               <pedal tstamp="3" place="below" staff="3" dir="up" form="pedstar"/>
             </measure>
-            <measure n="4" xml:id="d1e1077" width="220">
+            <measure n="4" xml:id="d1e1077">
               <staff n="1">
                 <layer n="1">
                   <beam>
@@ -558,7 +558,7 @@
             <sb/>
             <scoreDef system.leftmar="0" system.rightmar="0" spacing.system="192"/>
             <staffDef n="3" spacing="70"/>
-            <measure n="5" xml:id="d1e1464" width="267">
+            <measure n="5" xml:id="d1e1464">
               <staff n="1">
                 <layer n="1">
                   <note xml:id="d1e1475" pname="f" oct="4" dur="4" stem.dir="up">
@@ -608,7 +608,7 @@
               <slur tstamp="2" curvedir="above" startid="#d1e1547" endid="#d1e1849" bezier="45 36 -25 39" staff="2" tstamp2="1m+2"/>
               <slur tstamp="2" curvedir="above" startid="#d1e1702" endid="#d1e1992" bezier="33 36 -49 25" staff="3" tstamp2="1m+2"/>
             </measure>
-            <measure n="6" xml:id="d1e1738" width="194">
+            <measure n="6" xml:id="d1e1738">
               <staff n="1">
                 <layer n="1">
                   <note xml:id="d1e1740" pname="b" oct="4" dur="4" stem.dir="down" accid.ges="f">
@@ -669,7 +669,7 @@
               </staff>
               <slur tstamp="3" curvedir="above" startid="#d1e1869" endid="#d1e1893" bezier="11 12 -11 12" staff="2" tstamp2="0m+3.5"/>
             </measure>
-            <measure n="7" xml:id="d1e2089" width="178">
+            <measure n="7" xml:id="d1e2089">
               <staff n="1">
                 <layer n="1">
                   <note xml:id="d1e2091" pname="a" oct="4" dur="4" stem.dir="up" accid.ges="f">
@@ -736,7 +736,7 @@
               <slur tstamp="1" curvedir="above" startid="#d1e2363" endid="#d1e2383" bezier="6 18 -15 10" staff="3" tstamp2="0m+2"/>
               <hairpin tstamp="3" form="cres" place="below" staff="2" opening="1.5" endto="-8" tstamp2="0m+3.917"/>
             </measure>
-            <measure n="8" xml:id="d1e2483" width="211">
+            <measure n="8" xml:id="d1e2483">
               <staff n="1">
                 <layer n="1">
                   <note xml:id="d1e2485" pname="d" oct="5" dur="4" stem.dir="down">
@@ -830,7 +830,7 @@
               <hairpin tstamp="1" form="dim" place="below" staff="2" opening="1.5" endto="-17" tstamp2="0m+2.323"/>
               <slur tstamp="1" curvedir="above" startid="#d1e2598" endid="#d1e2654" bezier="14 8 -8 14" staff="2" tstamp2="0m+2"/>
             </measure>
-            <measure n="9" xml:id="d1e3138" width="180">
+            <measure n="9" xml:id="d1e3138">
               <staff n="1">
                 <layer n="1">
                   <note xml:id="d1e3140" pname="e" oct="4" dur="4" stem.dir="up" accid.ges="f">
@@ -876,7 +876,7 @@
               </dir>
               <slur tstamp="2" curvedir="above" startid="#d1e3213" endid="#d1e3251" bezier="-3 12 -10 3" staff="2" tstamp2="0m+2"/>
             </measure>
-            <measure n="10" xml:id="d1e3411" width="169">
+            <measure n="10" xml:id="d1e3411">
               <staff n="1">
                 <layer n="1">
                   <mRest xml:id="d1e3413"/>
@@ -919,7 +919,7 @@
             <sb/>
             <scoreDef system.leftmar="0" system.rightmar="0" spacing.system="192"/>
             <staffDef n="3" spacing="70"/>
-            <measure n="11" xml:id="d1e3706" width="288">
+            <measure n="11" xml:id="d1e3706">
               <staff n="1">
                 <layer n="1">
                   <rest xml:id="d1e3717" dur="4"/>
@@ -994,7 +994,7 @@
               <slur tstamp="2" curvedir="below" startid="#d1e3830" endid="#d1e3943" bezier="19 -22 -24 -23" staff="2" tstamp2="0m+3.5"/>
               <slur tstamp="2" curvedir="above" startid="#d1e4044" endid="#d1e4158" bezier="24 19 -24 19" staff="3" tstamp2="0m+3.5"/>
             </measure>
-            <measure n="12" xml:id="d1e4197" width="229">
+            <measure n="12" xml:id="d1e4197">
               <staff n="1">
                 <layer n="1">
                   <note xml:id="d1e4199" pname="b" oct="4" dur="4" dots="1" stem.dir="down" accid.ges="f">
@@ -1063,7 +1063,7 @@
                 </layer>
               </staff>
             </measure>
-            <measure n="13" xml:id="d1e4610" width="224">
+            <measure n="13" xml:id="d1e4610">
               <staff n="1">
                 <layer n="1">
                   <note xml:id="d1e4612" pname="e" oct="5" dur="4" stem.dir="down" accid.ges="f">
@@ -1133,7 +1133,7 @@
                 </layer>
               </staff>
             </measure>
-            <measure n="14" xml:id="d1e5008" width="233">
+            <measure n="14" xml:id="d1e5008">
               <staff n="1">
                 <layer n="1">
                   <beam>
@@ -1206,7 +1206,7 @@
                 </layer>
               </staff>
             </measure>
-            <measure n="15" xml:id="d1e5450" width="226">
+            <measure n="15" xml:id="d1e5450">
               <staff n="1">
                 <layer n="1">
                   <note xml:id="d1e5452" pname="f" oct="4" dur="4" stem.dir="up">
